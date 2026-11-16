@@ -1,0 +1,92 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Diego, Ana, Hugo
+Criterio: Tienen dificultades mayormente conceptuales, por lo que les sería útil el acompañamiento, para reforzar, en vez de otros quienes tienen otros tipos de características para las cuales no sería 100% útil el acompañamiento. Por ejemplo, para algunos es necesario que practiquen por su cuenta, otros tienen problemas con horarios, y otros, quienes van más avanzados pueden profundizar por cuenta propia teniendo en cuenta las buenas bases que tienen.
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+Ana (2,1; 95 %): Tiene dificultades con conceptos básicos pese a estudiar por su cuenta. El acompañamiento podría ayudarle a detectar y resolver esos vacíos.
+Diego (1,9; 60 %): Tiene la nota más baja y se siente muy atrasado. Sus ausencias se deben al cuidado de un familiar, no necesariamente a falta de interés; necesita apoyo para retomar el curso.
+Gabriela (2,6; 80 %): Comparte computador y casi no puede practicar. El acompañamiento podría darle tiempo de práctica guiada y ayudar a reducir esa barrera.
+
+OBSERVACIONES
+La IA interpretó por acompañamiento como asesorías de clase extra, por lo que descartó otros casos que tuvieran que ver más con horarios o deficiencias de prácticas.
+Los datos que dejó en segundo plano son las asistencias mayormente, argumenta que "la asistencia por sí sola, no debería determinar quién recibe apoyo: algunas ausencias tienen razones importantes, y asistir a clase no siempre significa poder aprender sin ayuda".
+No pidió información adicional ni asumió info que no se encuentre en tablas.
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+Selección propuesta
+Diego, Ana y Gabriela. Los elegiría porque combinan notas por debajo de 3 con obstáculos concretos para prepararse. Es una priorización para este programa breve, no una conclusión sobre quién merece más apoyo en general.
+- Diego (1,9): Tiene la nota más baja y dice que se siente muy atrasado. Las faltas por cuidar a un familiar pueden haberle dejado vacíos que necesita abordar antes del examen.
+- Ana (2,1): Asiste con regularidad y estudia por su cuenta, pero aún no comprende conceptos básicos. Las sesiones podrían ayudarle a identificar y trabajar esos vacíos.
+- Gabriela (2,6): Está por debajo de la nota mínima y casi no puede practicar porque comparte computador. Como habrá equipos durante las sesiones, el programa puede darle tiempo de práctica que normalmente no tiene.
+Por qué dejaría fuera a los demás
+- Hugo (2,5): Su dificultad para explicar el código que entrega merece atención; la nota también indica riesgo. Lo dejaría fuera por el límite de cupos, pero sería una prioridad cercana para otro apoyo.
+- Elena (2,7): Está cerca de aprobar y reconoce errores al programar. Podría beneficiarse de práctica guiada, aunque su necesidad parece menos urgente que la de quienes tienen notas más bajas o barreras más marcadas.
+- Bruno (2,8): Sus turnos de trabajo coinciden con algunas clases, lo que puede haberle dejado vacíos. Su nota está cerca de 3 y el caso no especifica qué conceptos necesita recuperar; convendría revisar eso antes del examen.
+- Camila (2,8): Se bloquea cuando trabaja sola, aunque resuelve ejercicios con ayuda. Esa dificultad es relevante, pero su nota está cerca de aprobar; con tres cupos, priorizaría primero a estudiantes con notas más bajas.
+- Felipe (4,3): Quiere profundizar en temas avanzados, pero ya supera la nota de aprobación. Este programa busca preparar para alcanzar 3, así que sus necesidades no coinciden con su propósito.
+
+COMPARACIÓN
+No cambió la decisión, argumenta que la selección podría cambiar si se conociera qué temas entran en el examen o qué tan cerca está cada estudiante de dominar sus contenidos. Menciona que tomó como referencia la nota, las dificultades descritas y lo que las sesiones pueden ofrecer.
+
+CONCLUSIÓN
+Al ingresar un contexto extra con el Programa A, no basta con elegir a quienes tienen las notas más bajas, también importa qué dificultades puede atender el programa y en qué plazo. Como las sesiones son antes del examen, hay computadores disponibles y no habrá apoyo posterior, conviene priorizar a quienes tienen vacíos académicos urgentes y pueden aprovechar esas sesiones para prepararse. Aun así, la elección depende de cómo se interpreten los datos: otros equipos podrían priorizar a estudiantes con notas cercanas a 3 o con barreras de asistencia y práctica. Por eso, la IA debe explicar sus criterios y reconocer la incertidumbre; su propuesta sirve como apoyo para decidir, no como una respuesta única o definitiva.
